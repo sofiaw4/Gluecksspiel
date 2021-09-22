@@ -22,7 +22,7 @@ public class Gluecksspiel {
 			if(diff1<diff2) {
 				System.out.println("Spieler 1 hat gewonnen!");
 			}else {
-				if 
+				if ()
 			}
 		}
 
