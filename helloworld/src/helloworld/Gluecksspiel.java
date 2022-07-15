@@ -5,7 +5,7 @@ public class Gluecksspiel {
 	static int zufallszahl = (int)Math.round(Math.random()*100) ;
 	static byte alter = 17;
 	static byte geschlecht = 1;
-	static String name = "Sofia";
+	static String name = "Leon";
 	static int spieler1Zahl = 42;
 	static int spieler2Zahl = 87;
 	static int diff1 = 0;
